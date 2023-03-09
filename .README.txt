@@ -1,0 +1,8 @@
+Desenvolvi um projeto no qual foi criada uma aplicação capaz de jogar o jogo Mummy Maze, 
+utilizando algoritmos de procura implementados. Foi formulado pelo menos duas 
+heurísticas distintas adequadas ao problema, as quais o utilizador pode escolher juntamente com o 
+algoritmo de procura para resolver um determinado nível.
+
+Realizei um estudo comparativo do desempenho dos vários algoritmos de procura e das heurísticas utilizadas na 
+resolução dos problemas, incluindo o desempenho dos algoritmos de procura não informados, 
+informados e a comparação entre eles. Também estudei a qualidade das heurísticas utilizadas.

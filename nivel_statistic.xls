@@ -1,0 +1,22 @@
+Level
+Method	Solution cost	Num of expanded nodes	Max frontier size:	Num of generated states:	Time:
+Breadth first search	11.0	47	8	172	0:0:0,28
+A* search	18.0	119	16	347	0:0:0,32
+A* search	18.0	119	16	347	0:0:0,18
+A* search	18.0	119	16	347	0:0:0,20
+A* search	18.0	221	37	677	0:0:0,43
+Breadth first search	32.0	63	5	195	0:0:0,25
+A* search	32.0	61	5	191	0:0:0,17
+Breadth first search	11.0	47	8	172	0:0:0,22
+Breadth first search	33.0	88	6	283	0:0:0,13
+Breadth first search	11.0	47	8	172	0:0:0,20
+Breadth first search	33.0	88	6	283	0:0:0,18
+Breadth first search	37.0	241	25	770	0:0:0,24
+Breadth first search	11.0	73	11	275	0:0:0,30
+Breadth first search	11.0	47	8	172	0:0:0,22
+Breadth first search	2.0	6	9	30	0:0:0,10
+Breadth first search	3.0	24	18	116	0:0:0,23
+Breadth first search	4.0	26	13	118	0:0:0,5
+Breadth first search	4.0	24	11	110	0:0:0,6
+Breadth first search	4.0	25	12	114	0:0:0,9
+Breadth first search	4.0	19	11	86	0:0:0,1
