@@ -6,3 +6,5 @@ algoritmo de procura para resolver um determinado nível.
 Realizei um estudo comparativo do desempenho dos vários algoritmos de procura e das heurísticas utilizadas na 
 resolução dos problemas, incluindo o desempenho dos algoritmos de procura não informados, 
 informados e a comparação entre eles. Também estudei a qualidade das heurísticas utilizadas.
+
+Linguagem usada: Java
