@@ -1,5 +1,5 @@
-I developed a project in which an application capable of playing the game Mummy Maze was created using implemented search algorithms. At least two distinct heuristics suitable for the problem were formulated, which the user can choose along with the search algorithm to solve a specific level.
+We developed a project in which an application capable of playing the game Mummy Maze was created using implemented search algorithms. At least two distinct heuristics suitable for the problem were formulated, which the user can choose along with the search algorithm to solve a specific level.
 
-I conducted a comparative study of the performance of various search algorithms and the heuristics used in solving the problems, including the performance of uninformed and informed search algorithms and the comparison between them. I also studied the quality of the heuristics used.
+We conducted a comparative study of the performance of various search algorithms and the heuristics used in solving the problems, including the performance of uninformed and informed search algorithms and the comparison between them. We also studied the quality of the heuristics used.
 
-The project was developed using Java programming language, and it allowed me to enhance my programming and problem-solving skills while exploring advanced concepts in artificial intelligence.
+The project was developed using Java programming language, and it allowed us to enhance our programming and problem-solving skills while exploring advanced concepts in artificial intelligence.
