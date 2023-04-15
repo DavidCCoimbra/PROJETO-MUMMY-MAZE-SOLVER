@@ -35,7 +35,7 @@ public class Agent<E extends State> {
         searchMethod = searchMethods.get(0);
         heuristics = new ArrayList<>();
         startTime = 0;
-        //endTime = 0;
+        endTime = 0;
         totalTime = 0;
     }
 

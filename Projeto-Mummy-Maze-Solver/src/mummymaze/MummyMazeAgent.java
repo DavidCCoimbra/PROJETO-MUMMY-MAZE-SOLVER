@@ -38,7 +38,7 @@ public class MummyMazeAgent extends Agent<MummyMazeState> {
         LinkedList<Trap> traps = new LinkedList<>();
 
         int lineExit = 0, columnExit = 0, lineKey = 0, columnKey = 0;
-        char[][] matrix = new char[13][13];
+        char[][] matrix = new char[14][14];
         while ((c = br.read()) != -1)         //Read char by Char
         {
             if (c == '\n') {
